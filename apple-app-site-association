@@ -3,9 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appID": "D4HA43V467.com.megalabs.DBO",
+        "appID": "85AUQZ32YK.ru.qb-systems.DominosPizza",
         "paths": [
-          "*"
+          "*", "/"
         ]
       }
     ]
