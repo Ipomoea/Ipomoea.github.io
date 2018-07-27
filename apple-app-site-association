@@ -1,13 +1,34 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "85AUQZ32YK.ru.qb-systems.DominosPizza",
-        "paths": [
-          "*", "/"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "KE8E87G4X7.com.megafon.card",
+                "paths": [
+                    "/mobiledeeplink/virtualcard/",
+                    "/mobiledeeplink/pfm/",
+                    "/mobiledeeplink/promo/", 
+                    "/mobiledeeplink/history/"
+                ]
+            },
+            {
+                "appID": "228J5MMU7S.com.touchin.dbo",
+                "paths": [
+                    "/mobiledeeplink/virtualcard/",
+                    "/mobiledeeplink/pfm/",
+                    "/mobiledeeplink/promo/", 
+                    "/mobiledeeplink/history/"
+                ]
+            },
+            {
+                "appID": "D4HA43V467.com.megalabs.DBO",
+                "paths": [
+                    "/mobiledeeplink/virtualcard/",
+                    "/mobiledeeplink/pfm/",
+                    "/mobiledeeplink/promo/", 
+                    "/mobiledeeplink/history/"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
