@@ -5,19 +5,19 @@
             {
                 "appID": "KE8E87G4X7.com.megafon.card",
                 "paths": [
-                    "mobiledeeplink/*"
+                    "*"
                 ]
             },
             {
                 "appID": "228J5MMU7S.com.touchin.dbo",
                 "paths": [
-                    "mobiledeeplink/*"
+                    "*"
                 ]
             },
             {
                 "appID": "D4HA43V467.com.megalabs.DBO",
                 "paths": [
-                    "mobiledeeplink/*"
+                    "*"
                 ]
             }
         ]
