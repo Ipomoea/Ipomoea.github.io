@@ -1,13 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "D4HA43V467.com.megalabs.DBO",
-                "paths": [
-                    "*"
-                ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "D4HA43V467.com.megalabs.DBO",
+        "paths": [
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
