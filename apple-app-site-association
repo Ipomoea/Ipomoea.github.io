@@ -5,28 +5,19 @@
             {
                 "appID": "KE8E87G4X7.com.megafon.card",
                 "paths": [
-                    "/mobiledeeplink/virtualcard/",
-                    "/mobiledeeplink/pfm/",
-                    "/mobiledeeplink/promo/", 
-                    "/mobiledeeplink/history/"
+                    "/mobiledeeplink/*"
                 ]
             },
             {
                 "appID": "228J5MMU7S.com.touchin.dbo",
                 "paths": [
-                    "/mobiledeeplink/virtualcard/",
-                    "/mobiledeeplink/pfm/",
-                    "/mobiledeeplink/promo/", 
-                    "/mobiledeeplink/history/"
+                    "/mobiledeeplink/*"
                 ]
             },
             {
                 "appID": "D4HA43V467.com.megalabs.DBO",
                 "paths": [
-                    "/mobiledeeplink/virtualcard/",
-                    "/mobiledeeplink/pfm/",
-                    "/mobiledeeplink/promo/", 
-                    "/mobiledeeplink/history/"
+                    "/mobiledeeplink/*"
                 ]
             }
         ]
